@@ -27,4 +27,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
-If you have any issues running the app, [create issues](https://github.com/facebookincubator/create-react-app/issues) or fork this repo to make changes.
+If you have any issues running the app, [create issues](https://github.com/venkatagandi/react-age-calculator/issues) or fork this repo to make changes.
