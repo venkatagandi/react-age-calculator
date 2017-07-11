@@ -7,7 +7,7 @@ This project caluculates your time spent on this mother earth based on your birt
 
 
 - [Available Scripts](#available-scripts)
-  - [npm start](#npm-install)
+  - [npm install](#npm-install)
   - [npm start](#npm-start)
 
 ## Scripts
